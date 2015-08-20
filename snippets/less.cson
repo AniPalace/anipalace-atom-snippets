@@ -1,0 +1,4 @@
+'.source.css.less':
+  '[AP] [LESS] Header':
+    'prefix': 'ap-less-header'
+    'body': '// main: ../../anipalace.less'
