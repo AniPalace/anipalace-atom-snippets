@@ -1,0 +1,1 @@
+# anipalace-atom-snippets
